@@ -1,6 +1,7 @@
 import itertools
 import pandas as pd
 
+
 class set_panel(object):
 
     def __init__(self, panel, start_year, end_year):
