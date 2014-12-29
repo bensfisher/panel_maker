@@ -28,7 +28,7 @@ class set_panel(object):
         if panel=='ISO':
             self.panel = iso
         else:
-            self.panel=panel
+            self.panel = panel
         self.start_year = start_year
         self.end_year = end_year
 
